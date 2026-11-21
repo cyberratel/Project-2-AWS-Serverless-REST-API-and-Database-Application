@@ -1,6 +1,8 @@
 Project 2 — Event-Driven Serverless Order Processing System
-An AWS production-style application built with Python, Terraform and serverless services.
 
+![AWS Serverless Repository Architecture](https://github.com/cyberratel/Project-2-AWS-Serverless-REST-API-and-Database-Application/blob/main/AWS%20Serverless%20Repository%20Architecture.png?raw=true)
+
+An AWS production-style application built with Python, Terraform and serverless services.
 The application will simulate an online ordering system. A customer places an order through an API. AWS processes the order asynchronously, stores the information, generates events and sends notifications.
 
 This gives every AWS service a specific job in one connected application.
